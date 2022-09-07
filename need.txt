@@ -1,0 +1,6 @@
+{
+    "title": "fdgdfgdfgfdg",
+    "price": 67000,
+    "description": "dsfffffffffffffffffffffsdssssssssssssssssssss",
+    "creator": 1
+}
